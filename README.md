@@ -1,2 +1,6 @@
 # StudentManagementSystem
-a final project
+cps1231 final project
+
+
+
+instructor: Wu Bo
